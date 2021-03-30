@@ -1,4 +1,4 @@
-# VamosVencer
+#  Sistema de compra de ingresso cinema e teatro ( TESTE 1 )
 package cine;
 
 public class BilheteriaCine {
